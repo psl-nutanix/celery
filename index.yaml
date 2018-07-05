@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  celery-helm:
+  - apiVersion: v1
+    created: 2018-07-05T02:14:40.185528506-04:00
+    description: A Helm chart for Kubernetes
+    digest: 3cb80f3cbd6300c77d621cc20622051d15e00034544a7d43ece3f46f7e3e2aba
+    name: celery-helm
+    urls:
+    - https://github.com/psl-nutanix/celery/celery-helm-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-07-05T02:14:40.179676206-04:00
