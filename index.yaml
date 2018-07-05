@@ -7,6 +7,6 @@ entries:
     digest: 3cb80f3cbd6300c77d621cc20622051d15e00034544a7d43ece3f46f7e3e2aba
     name: celery-helm
     urls:
-    - https://github.com/psl-nutanix/celery/
+    - https://github.com/psl-nutanix/celery/celery-helm-0.1.0.tgz
     version: 0.1.0
 generated: 2018-07-05T04:59:48.375797058-04:00
